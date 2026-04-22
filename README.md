@@ -1,4 +1,4 @@
-# Job Application Tracker
+# Next Hire
 
 A modern web application for tracking your job applications in one place. Built with **React**, **TypeScript**, and **Next.js**.
 
@@ -23,10 +23,10 @@ A modern web application for tracking your job applications in one place. Built 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/job-tracker.git
+git clone https://github.com/your-username/next-hire.git
 
 # Navigate into the project
-cd job-tracker
+cd next-hire
 
 # Install dependencies
 npm install
